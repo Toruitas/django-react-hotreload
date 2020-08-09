@@ -10,7 +10,7 @@ class App extends Component {
     render(){
         return(
             <div>
-                How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+                This is the React index.
             </div>
         )
     }
