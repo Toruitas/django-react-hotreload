@@ -1,4 +1,4 @@
-# Django React Live development with Reloading 
+# How to Bring Live-Reloading back to a Django & React Project
 
 This repository contains a very basic setup demonstrating how to use Webpack's dev server alongside Django's to make development life easy by getting live reloading to work again. You'll need to keep two terminals open running the two dev servers concurrently. 
 
